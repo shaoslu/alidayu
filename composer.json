@@ -1,0 +1,16 @@
+{
+    "name": "shaoslu/alidayu",
+    "description": "阿里大于短信服务",
+    "authors": [
+        {
+            "name": "shaoslu",
+            "email": "416693904@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Aliyun\\": "lib/"
+        }
+    }
+    "require": {}
+}
